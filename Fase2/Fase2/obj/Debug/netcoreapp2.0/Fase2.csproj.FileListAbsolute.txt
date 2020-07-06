@@ -1,0 +1,11 @@
+C:\Users\ofeli\source\repos\Fase2\Fase2\obj\Debug\netcoreapp2.0\Fase2.csprojAssemblyReference.cache
+C:\Users\ofeli\source\repos\Fase2\Fase2\obj\Debug\netcoreapp2.0\Fase2.csproj.CoreCompileInputs.cache
+C:\Users\ofeli\source\repos\Fase2\Fase2\obj\Debug\netcoreapp2.0\Fase2.AssemblyInfoInputs.cache
+C:\Users\ofeli\source\repos\Fase2\Fase2\obj\Debug\netcoreapp2.0\Fase2.AssemblyInfo.cs
+C:\Users\ofeli\source\repos\Fase2\Fase2\bin\Debug\netcoreapp2.0\Fase2.deps.json
+C:\Users\ofeli\source\repos\Fase2\Fase2\bin\Debug\netcoreapp2.0\Fase2.runtimeconfig.json
+C:\Users\ofeli\source\repos\Fase2\Fase2\bin\Debug\netcoreapp2.0\Fase2.runtimeconfig.dev.json
+C:\Users\ofeli\source\repos\Fase2\Fase2\bin\Debug\netcoreapp2.0\Fase2.dll
+C:\Users\ofeli\source\repos\Fase2\Fase2\bin\Debug\netcoreapp2.0\Fase2.pdb
+C:\Users\ofeli\source\repos\Fase2\Fase2\obj\Debug\netcoreapp2.0\Fase2.dll
+C:\Users\ofeli\source\repos\Fase2\Fase2\obj\Debug\netcoreapp2.0\Fase2.pdb
