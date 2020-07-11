@@ -1,0 +1,50 @@
+<script>
+"use strict";
+///////// Fase 1 /////////
+
+let nom = "Ofelia ";
+let cognom="Cocucci ";
+let cognom2="Furlan";
+
+var dia = new Date().getDate();
+var mes = new Date().getMonth() + 1;
+var any = new Date().getFullYear();
+
+document.write(nom, cognom, cognom2);
+document.write("<br>", dia, "/", mes, "/", any);
+
+///////// Fase 2 /////////
+
+const anyTraspas = 1948;
+const birthDay = 1995;
+let anysDeTraspas = 0;
+
+for(let i = anyTraspas; i < birthDay; i+= 4){
+    anysDeTraspas +=4 ;
+}
+
+document.write("<br> Anys de traspas entre 1948 y ", birthDay, ": ", anysDeTraspas);
+
+///////// Fase 2 /////////
+
+document.write("<br>")
+for(let i = anyTraspas; i < birthDay; i+= 4){
+    document.write(i, ", ");
+}
+
+let esAnyDeTraspas = false;
+
+if( (anysDeTraspas - birthDay) % 4 == 0) {
+    esAnyDeTraspas = true;
+}
+let siEs = " si es any de trespas";
+let noEs = " no es any de trespas";
+
+document.write("<br>", birthDay, esAnyDeTraspas ? siEs : noEs);
+
+let fullName = nom + cognom + cognom2;
+let fullDate = dia + "/" + mes +  "/" + any;
+
+document.write("<br>", fullName, " ", fullDate, " ",  birthDay, esAnyDeTraspas ? siEs : noEs)
+
+</script>
